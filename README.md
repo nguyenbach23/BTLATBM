@@ -5,9 +5,12 @@
 * Thanh vien: Nguyen Xuan Bach - MSSV: 1871020067 - Lop: CNTT-1802
 * Thanh vien: Hoang The Truong - MSSV: 187 - Lop: CNTT-1802
 * Thanh vien: Ha Van Viet - MSSV: 187 - Lop: CNTT-1802
-**Hoc phan:** Nhap mon An toan va Bao mat thong tin
+**De tai 12:** DRM-like Secure Music Delivery
+  **Hoc phan:** Nhap mon An toan va Bao mat thong tin
 **De tai 12:** DRM-like Secure Music Delivery
 **Don vi:** Dai hoc Dai Nam
+
+---
 
 ##  Cấu trúc dự án
 - `src/`: Mã nguồn cốt lõi gồm Server mã hóa, Key Server quản lý khóa, Client phát nhạc.
