@@ -5,8 +5,7 @@
 * Thanh vien: Nguyen Xuan Bach - MSSV: 1871020067 - Lop: CNTT-1802
 * Thanh vien: Hoang The Truong - MSSV: 187 - Lop: CNTT-1802
 * Thanh vien: Ha Van Viet - MSSV: 187 - Lop: CNTT-1802
-**De tai 12:** DRM-like Secure Music Delivery
-  **Hoc phan:** Nhap mon An toan va Bao mat thong tin
+**Hoc phan:** Nhap mon An toan va Bao mat thong tin
 **De tai 12:** DRM-like Secure Music Delivery
 **Don vi:** Dai hoc Dai Nam
 
