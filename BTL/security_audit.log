@@ -1,0 +1,2 @@
+[SYSTEM START] Hệ thống DRM-like Secure Music Delivery đã khởi tạo.[AUDIT] User: user_01 | Song: SONG_MTP | Access: SUCCESS | Reason: Xác thực thành công! Đã cấp bản quyền bản nhạc.
+[AUDIT] User: hacker_anonymous | Song: SONG_MTP | Access: FAILED | Reason: Từ chối truy cập: Người dùng chưa thanh toán cho bài hát này!
