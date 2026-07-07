@@ -1,10 +1,10 @@
 # FIT4012 - Gửi tập tin nhạc có bản quyền
 
 ## Thong Tin Nhom Thuc Hien - Nhom 08
-* Truong nhom: Nguyen Tuan Anh - MSSV: 1871 - Lop: CNTT-1802
+* Truong nhom: Nguyen Tuan Anh - MSSV: 1871020065 - Lop: CNTT-1802
 * Thanh vien: Nguyen Xuan Bach - MSSV: 1871020067 - Lop: CNTT-1802
 * Thanh vien: Hoang The Truong - MSSV: 1871020599 - Lop: CNTT-1802
-* Thanh vien: Ha Van Viet - MSSV: 187 - Lop: CNTT-1802
+* Thanh vien: Ha Van Viet - MSSV: 187020652 - Lop: CNTT-1802
     * **Học phần:** Nhap mon An toan va Bao mat thong tin
     * **Đề tài 12:** DRM-like Secure Music Delivery
     * **Đơn vị:** Dai hoc Dai Nam
